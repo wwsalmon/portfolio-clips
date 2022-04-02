@@ -95,7 +95,7 @@ export default function App() {
                     alt="Logo of The Student Life"
                     className="w-7 h-7 mx-2 inline"
                 /><i>The Student Life</i></Anchor>,
-                where my reporting, editing and data work has been awarded <Anchor href="/">Best Interactive Graphic of 2021</Anchor> and Best COVID Coverage of 2021 by the California College Media Association.
+                where my reporting, editing and data work has been awarded <Anchor href="https://tsl.news/pomona-class-of-2025-diversity/">Best Interactive Graphic of 2021</Anchor> and Best COVID Coverage of 2021 by the California College Media Association.
             </Paragraph>
             <Paragraph>
                 Outside of journalism I'm an <b>experienced software engineer</b>. I maintain my own <Anchor href="https://updately.us/">social media platform</Anchor> and writing app and <Anchor href="https://postulate.us/">a startup I founded</Anchor> was selected to interview for Y Combinator.
